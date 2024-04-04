@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>spicy hut</title>
+</head>
+<body>
+    <!--same tab la open agum-->
+    <!--a href="https://github.com/prasanth2252002">my github account</a></br-->
+    <!--new tab la open aganu na target="_blank">intha attribute ah use panna nu-->
+
+    <h2>spicy hut - finest taste, freshest ingredients</h2>
+    <a href="home page.html">Home</a>
+    <a href="about page.html">About</a>
+    <a href="menu page.html">Menu</a>
+    <a href="https://www.swiggy.com/">place your order</a></br>
+    <h4>dine in and take out</h4>
+    <h4>catering and service</h4>
+    <h4>corporate events</h4>
+
+
+
+</body>
+</html>
