@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>spicy hut - finest taste, freshest ingredients</h2>
+    <a href="home page.html">Home</a>
+    <a href="about page.html">About</a>
+    <a href="menu page.html">Menu</a>
+    <a href="https://www.swiggy.com/">place your order</a></br>
+
+    <h2>Bike Types:</h2>
+<ol type="1">
+  <li>Mountain Bike</li>
+  <li>Road Bike</li>
+  <li>Hybrid Bike</li>
+  <li>Cruiser Bike</li>
+  <li>BMX Bike</li>
+</ol>
+
+<h2>Car Types:</h2>
+<ol type="A">
+  <li>Sedan</li>
+  <li>SUV</li>
+  <li>Hatchback</li>
+  <li>Coupe</li>
+  <li>Convertible</li>
+</ol>
+
+<h2>Food Items:</h2>
+<ul>
+  <li>Pizza</li>
+  <li>Burger</li>
+  <li>Sandwich</li>
+  <li>Sushi</li>
+  <li>Salad</li>
+</ul>
+
+</body>
+</html>
