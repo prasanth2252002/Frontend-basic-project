@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style type="text/css">
+        h2{
+            color: blue;
+        }
+        h3{
+            color: brown;
+        }
+        h4,h6,h1,h5,p,pre{
+            color:olive;
+        }
+        dl{
+            color: red;
+        }
+    </style>
+    <title>CSS</title>
+</head>
+<body>
+    h1>.....HEADING TAGS.....</h1>
+     <h1>hi i am prasanth</h1>
+     <h2>hi i am prasanth</h2>
+     <h3>hi i am prasanth</h3>
+     <h4>hi i am prasanth</h4>
+     <h5>hi i am prasanth</h5>
+     <h6>hi i am prasanth</h6>
+     <hr>
+     <pre>i 
+          am a software developer</pre>
+     <p>i am a software developer</p>
+     <b>hii</b>
+     <p>i am <b>prasanth soundappan</b></p>
+     <p>a<sup>2</sup></p>
+     <p>h<sub>2</sub>o</p>
+     <hr>
+     <h4><i>hii i am prasanth soundappan<br />from <b>salem</b></i></h4>  
+
+
+
+     <!-- these are "sementric" tags these are deliver the strong and etra informations.-->
+     <p>please <strong>consult the doctor</strong></p>
+     <em>do not try this at home</em><br>
+     <q>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo voluptatem, beatae fugit odio magnam inventore quas aperiam velit corrupti pariatur necessitatibus voluptas at placeat ullam delectus quibusdam ea, minus nulla</q><br>
+     <abbr>ISRO</abbr><br>
+     <dfn>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste ipsum dolorum ea suscipit, repellat nostrum eligendi nemo. Sapiente impedit distinctio nihil similique excepturi, delectus dolore! Enim nobis reprehenderit id sequi.</dfn><br>
+     
+
+     <!--contact address kudukkumbhothu <address>intha tag use pannala-->
+     <address>prasanth.soundappan@gmail.com</address>
+
+
+     <!--palasu pakkathula ye puthusa oru values ah show panrathukku-->
+     <h4><del>$599/-</del><ins>$499/only</ins></h4>
+
+
+     <!--palaiya number ahh alicchi mattu vidrathukku-->
+     <s>old number 9514364950</s>
+
+     <!--list ah epdi kudukkurathu nu pakka la-->
+
+     <!--unorder list-->
+     <h3>opps concepts</h3>
+     <ul>
+          <li>class</li>
+          <li>object</li>
+          <li>abstration</li>
+          <li>encapsulation</li>
+          <li>inheritance</li>
+          <li>plymarphysiam</li>
+     </ul>
+
+     <!--order list-->
+     <h3>opps concepts</h3>
+     <ol type="a">
+          <li>class</li>
+          <li>object</li>
+          <li>abstration</li>
+          <li>encapsulation</li>
+          <li>inheritance</li>
+          <li>plymarphysiam</li>
+     </ol>
+
+     
+     <h3>our family</h3>
+     <ol>
+          <li>ardhanary sami</li>
+          <li>selvarani</li>
+          <li>menaga</li>
+          <ul>
+               <li>soundappan</li>
+               <li>prasanth</li>
+               <li>haripriya</li>
+          </ul>
+          <li>gopalakrishnan</li>
+          <ul>
+               <li>nithya</li>
+               <li>rohan</li>
+          </ul>
+     </ol>
+
+     
+     <dl>
+          <dt>abstration</dt>
+          <dd>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam officia eum dolorum enim quae tempore repudiandae est voluptatum quidem deserunt fugiat ea odio, dolore quas corrupti provident laborum porro accusantium?</dd>
+          <dt>encapsulation</dt>
+          <dd>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor ipsa, laudantium corporis dolorum tempora illum harum deleniti pariatur magnam odio ullam nesciunt doloremque mollitia molestiae iusto accusantium nostrum consequatur quaerat.</dd>
+          <dt>inheritance</dt>
+          <dd>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi aspernatur officia ea expedita illum. Consectetur sed doloremque similique, maxime omnis facere recusandae vero eum. Vel, similique neque. Minima, exercitationem perspiciatis?</dd>
+     </dl>
+</body>
+</html>
