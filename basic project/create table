@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tables</title>
+</head>
+<body>
+    <table border="10">
+        <thead>
+        <tr>
+            <th>Type</th>
+            <th>item</th>
+            <th>price</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td rowspan="4">starters</td>
+            <td>bajji</td>
+            <td>$2</td>
+        </tr>
+        <tr>
+            <td>samosa</td>
+            <td>$5</td>
+        </tr>
+        <tr>
+            <td>burger</td>
+            <td>$10</td>
+        </tr>
+        <tr>
+            <td>pizza</td>
+            <td>$15</td>
+        </tr>
+        </tbody>
+    </table>
+    <br>
+    <br>
+    <table border="2" bgcolor="#909eb4" cellpadding="5" cellspacing="5">
+        <thead>
+        <tr>
+            <th>Type</th>
+            <th>item</th>
+            <th>price</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td rowspan="4">starters</td>
+            <td>bajji</td>
+            <td>$2</td>
+        </tr>
+        <tr>
+            <td>samosa</td>
+            <td>$5</td>
+        </tr>
+        <tr>
+            <td>burger</td>
+            <td>$10</td>
+        </tr>
+        <tr>
+            <td>pizza</td>
+            <td>$15</td>
+        </tr>
+        </tbody>
+    </table>
+    
+</body>
+</html>
