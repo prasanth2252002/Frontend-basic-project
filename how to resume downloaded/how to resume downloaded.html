@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+    function downloadResume() {
+        // Replace 'Prasanth Soundappan BE (CS) Fresher 2023.pdf' with the correct path to your PDF file
+        var resume = 'Prasanth Soundappan BE (CS) Fresher 2023.pdf';
+
+        // Create an anchor element
+        var link = document.createElement('a');
+
+        // Set the href attribute of the anchor element to the resume URL
+        link.href = resume;
+
+        // Set the download attribute to prompt the browser to download the file
+        link.download = 'Prasanth Soundappan BE (CS) Fresher 2023.pdf';
+
+        // Programmatically click the anchor element to trigger the download
+        link.click();
+    }
+</script>
+<body>
+    <button class="btn" onclick="downloadResume()">
+            Download Resume
+          </button>
+
+</body>
+</html>
